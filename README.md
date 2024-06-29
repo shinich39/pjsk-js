@@ -1,6 +1,6 @@
 # pjskjs
 
-Utilities of Project SEKAI COLORFUL STAGE! feat. Hastune Miku.
+Game result analysis of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
 
 ## Installation
 
