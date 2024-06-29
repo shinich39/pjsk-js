@@ -1,0 +1,23 @@
+{
+  "name": "pjskjs",
+  "version": "1.0.0",
+  "description": "Project SEKAI COLORFUL STAGE! feat. Hastune Miku utilities.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "update:music": "node update.js"
+  },
+  "keywords": [
+    "javascript",
+    "pjsk",
+    "ProjectSEKAI"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "octonode": "^0.10.2",
+    "tesseract.js": "^5.0.5"
+  }
+}
