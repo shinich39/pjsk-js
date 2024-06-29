@@ -150,6 +150,6 @@ export default {
     if (!diff) {
       throw new Error("Music difficulty not found.");
     }
-    return diff;
+    return JSON.parse(JSON.stringify(diff));
   },
 }
