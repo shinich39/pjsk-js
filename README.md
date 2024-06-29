@@ -82,6 +82,13 @@ const res = pjsk.recognize(filePath);
 //   playLevel: 31,
 //   totalNoteCount: 1539,
 //   condition: 'LIVE CLEAR',
+//   judgements: {
+//     perfect: 1435,
+//     great: 94,
+//     good: 3,
+//     bad: 1,
+//     miss: 6
+//   }
 //   music: {
 //     id: 329,
 //     seq: 1125501,
@@ -112,7 +119,6 @@ const res = pjsk.recognize(filePath);
 //     releaseConditionId: 1,
 //     totalNoteCount: 1539
 //   },
-//   judgements: { perfect: 1435, great: 94, good: 3, bad: 1, miss: 6 }
 // }
 ```
 
