@@ -1,6 +1,6 @@
 # pjskjs
 
-Game result analysis of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
+Utilities of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
 
 ## Installation
 
@@ -68,7 +68,7 @@ const res = pjsk.findDiff(musicId, difficulty);
 // }
 ```
 
-- Game result recognize
+- Analyze game result
 
 <img src="./test/expert.png" width="100%">
 
