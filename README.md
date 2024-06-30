@@ -2,6 +2,10 @@
 
 Utilities of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
 
+## Requirements
+
+- [NodeJS](https://nodejs.org)
+
 ## Installation
 
 ```console
