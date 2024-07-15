@@ -1,4 +1,4 @@
-# pjskjs
+# pjsk-js
 
 Utilities of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
 
@@ -9,15 +9,15 @@ Utilities of Project SEKAI COLORFUL STAGE! feat. Hatsune Miku.
 ## Installation
 
 ```console
-git clone https://github.com/shinich39/pjskjs
-cd pjskjs
+git clone https://github.com/shinich39/pjsk-js
+cd pjsk-js
 npm install
 ```
 
 ## Usage
 
 ```js
-import pjsk from 'pjskjs'; // esm
+import pjsk from 'pjsk-js'; // esm
 ```
 
 - Music list

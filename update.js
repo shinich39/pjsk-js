@@ -1,5 +1,5 @@
-import pjskjs from "./index.js";
+import pjsk from "./index.js";
 
-const { Music } = pjskjs;
+const { Music } = pjsk;
 
 Music.update();
